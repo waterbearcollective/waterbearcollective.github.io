@@ -1,1 +1,1 @@
-# waterbearcollective.github.io
+# edgecollective.github.io
