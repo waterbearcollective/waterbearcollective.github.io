@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Waterbear Collective</title>
+	<subtitle>Waterbear Collective</subtitle>
+	
+	<link href="http://waterbearcollective.org/feed/feed.xml" rel="self"/>
+	<link href="http://waterbearcollective.org"/>
+	<updated>2022-06-13T00:00:00Z</updated>
+	<id>http://waterbearcollective.org</id>
+	<author>
+		<name>Don Blair</name>
+		<email>donblair@pvos.org</email>
+	</author>
+	
+	<entry>
+		<title>Upcoming DIY Garden Trellis Workshop</title>
+		<link href="http://waterbearcollective.org/posts/firstpost/"/>
+		<updated>2022-06-13T00:00:00Z</updated>
+		<id>http://waterbearcollective.org/posts/firstpost/</id>
+		<content type="html">&lt;p&gt;We&#39;ll be hosting a workshop on DIY Garden Trellis making on June 18, 2022!&lt;/p&gt;
+&lt;p&gt;More information &lt;a href=&quot;http://waterbearcollective.org/trellis&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
